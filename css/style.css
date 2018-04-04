@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&subset=latin-ext');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #eeeff1;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body.green {
+  background: #84b71c;
+  color: #FFFFFF;
+}
+
+main {
+  text-align: center;
+  margin: 3em;
+}
+
+label {
+  font-size: 25px;
+}
+
+input {
+  margin-right: 10px;
+}
